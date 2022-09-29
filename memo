@@ -11,4 +11,9 @@ windows F12 or ctrl+shift+i
 デバックツール
 https://validator.w3.org/#validate_by_input
 
+git 
 
+リモートリポジトリ作成
+
+初回、2回めで手順が違う事を意識する。
+git remote urlはsshの方で。
