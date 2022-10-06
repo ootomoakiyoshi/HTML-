@@ -11,7 +11,19 @@ windows F12 or ctrl+shift+i
 デバックツール
 https://validator.w3.org/#validate_by_input
 
-git 
+■HTMLショートカットキー
+・雛形が作成
+→HTMLファイルを開き 半角! +tabキー
+
+・複製(shiftキーで範囲選択後にoption)
+→shift + option ↑↓の矢印キー
+
+・pタグ、h1タグ等のタグのショートかっと
+→p (半角) + tabキー <p></p>
+→h1 (半角) + tabキー<h1></h1>
+→a (半角) + tabキー <a href=""></a>
+
+■git
 
 リモートリポジトリ作成
 
