@@ -22,6 +22,16 @@ https://validator.w3.org/#validate_by_input
 →p (半角) + tabキー <p></p>
 →h1 (半角) + tabキー<h1></h1>
 →a (半角) + tabキー <a href=""></a>
+→command + / キー  コメント記載
+
+CSSファイルを読み込み
+ <link rel="stylesheet" href="box.css" />
+例の上記のlinkタグは「スタイルシート（外部CSSファイル）を読み込む」ためのもの。
+タグの解読
+relでファイルとの関係性を、hrefで そのファイルがある場所（URL）を指定。
+
+ rel="stylesheet" →ファイルとの関係性
+href="box.css" →ファイルのURL
 
 ■git
 
