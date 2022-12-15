@@ -33,6 +33,11 @@ relでファイルとの関係性を、hrefで そのファイルがある場所
  rel="stylesheet" →ファイルとの関係性
 href="box.css" →ファイルのURL
 
+width 横幅設定
+height 高さ設定
+
+px,%,autoで指定可能。width,heightの設定はCSSに記述し使用する。
+
 ■ git
 リモートリポジトリ作成
 
