@@ -33,10 +33,27 @@ relでファイルとの関係性を、hrefで そのファイルがある場所
  rel="stylesheet" →ファイルとの関係性
 href="box.css" →ファイルのURL
 
+■BOX理解
+WCP 第3章
+
 width 横幅設定
 height 高さ設定
 
 px,%,autoで指定可能。width,heightの設定はCSSに記述し使用する。
+HTMLの要素で「表領域」の確保を行う
+CSSでボックスの幅・高さ・余白の設定を行う。
+
+コンテンツ領域の周囲は、内側余白（padding）、枠線（border）、そして、外側余白（margin）で構成されています。
+
+border　　要素に枠線を設定する
+padding　要素の内側にある余白
+margin　　要素の外側にある余白
+
+設定したborderに対し、padding/marginで余白の設定を行う。
+
+padding：borderより内側の余白
+margin：borderより外側の余白
+
 
 ■ git
 リモートリポジトリ作成
