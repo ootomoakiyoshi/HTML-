@@ -24,7 +24,7 @@ https://validator.w3.org/#validate_by_input
 →a (半角) + tabキー <a href=""></a>
 →command + / キー  コメント記載
 
-CSSファイルを読み込み
+■CSSファイルを読み込み
  <link rel="stylesheet" href="box.css" />
 例の上記のlinkタグは「スタイルシート（外部CSSファイル）を読み込む」ためのもの。
 タグの解読
@@ -32,6 +32,15 @@ relでファイルとの関係性を、hrefで そのファイルがある場所
 
  rel="stylesheet" →ファイルとの関係性
 href="box.css" →ファイルのURL
+
+・リンク作成
+基本の形
+aタグにて<a href="https://XXXXXXX">左httpsリンク名<a/>
+
+別ページに遷移させる方法
+<a href="https://www.google.com/" target="_blank">google</a>
+URL指定後、target="_blank"を記述する事で別リンクにて遷移される。
+
 
 
 ■BOX理解
